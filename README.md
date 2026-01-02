@@ -27,3 +27,8 @@ Configured AD users and groups, applied security-focused GPOs, enforced MFA, and
 ## 👩‍💻 About Me
 Cybersecurity & IT professional with a Master’s in Cybersecurity and ongoing PhD in Information Technology. Passionate about protecting systems, solving problems, and growing in the cybersecurity field. Seeking remote opportunities USA and Portugal.
 
+---
+
+## 📎 Links
+- [LinkedIn Profile](https://www.linkedin.com/in/febe-pacheco/)
+
