@@ -12,3 +12,13 @@ Conducted vulnerability scans, prioritized risks using CVSS scoring, and created
 
 ## 🔐 Active Directory Security Hardening  
 Configured AD users and groups, applied security-focused GPOs, enforced MFA, and implemented least-privilege access controls to improve identity and access security.
+---
+
+## 🧰 Tools Used
+- Splunk & IBM QRadar (SIEM)
+- MITRE ATT&CK Framework
+- CVSS Scoring System
+- Active Directory (AD)
+- Group Policy Objects (GPO)
+- Multi-Factor Authentication (MFA)
+- Windows Server & Endpoint Security
